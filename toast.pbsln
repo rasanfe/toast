@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Solution>
+  <Projects Default="toast.pbproj">
+    <Project Path="toast.pbproj"/>
+  </Projects>
+</Solution>
